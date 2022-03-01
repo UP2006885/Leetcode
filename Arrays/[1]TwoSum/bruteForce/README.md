@@ -1,5 +1,8 @@
 # TwoSum
 
+## Brute force
+
+
 [Question](https://leetcode.com/problems/two-sum/)
 
 This code, is the solution for the two sum array problem. It solves the problem by looping through the array twice and using I as the first counter used for the index of the first item, and then comparing the value of array[i], to the value of the array[j] which is the counter for the second loop.  
